@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=joystick_up
+*Date=14:13:42
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;20.6601;-10.2152;-90;Bottom;NRF32
+2;;THT;11.8516;-11.7772;0;Bottom;NRF28
+3;;THT;20.6601;-4.26268;-90;Bottom;NRF31
+4;;THT;2.46832;-12.7986;0;Bottom;NRF33
+5;;THT;25.5798;-9.28884;0;Bottom;NRF29
+6;4.7k;THT;37.3211;-11.9674;-90;Bottom;R3
+7;;THT;19.4079;-22.2047;-90;Bottom;Left connector
+8;;THT;19.3367;-1.74357;-90;Bottom;Right Connector
+9;;THT;26.5269;-18.7191;0;Bottom;NRF30
+10;4.7k;THT;32.9469;-18.2498;-180;Bottom;R1
+11;;THT;33.2362;-11.9741;180;Bottom;NRF24
+12;;THT;29.1499;-11.9613;180;Bottom;NRF26
+13;;;33.4438;-19.4369;0;Top;TXT1
+14;;;39.2827;-12.2604;-90;Top;TXT1

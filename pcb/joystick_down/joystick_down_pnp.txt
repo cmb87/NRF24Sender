@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=joystick_down
+*Date=16:22:17
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;50.5494;-28.5258;-90;Bottom;Joystick Left
+2;;THT;27.6894;-19.6358;180;Bottom;Joystick Left8
+3;;THT;50.5494;-20.9058;180;Bottom;Joystick Left6
+4;;THT;54.3594;-14.5558;-90;Bottom;Joystick Left5
+5;;THT;12.4494;-9.47581;180;Bottom;Joystick Left10
+6;;THT;49.2794;-9.47581;180;Bottom;Joystick Left14
+7;;THT;36.5794;-13.2858;180;Bottom;Joystick Left15
+8;4.7k;THT;9.76969;-13.2858;-90;Bottom;R2
+9;;THT;50.5494;-25.9858;-90;Bottom;Joystick Left1
+10;;THT;53.0894;-20.9058;180;Bottom;Joystick Left7
+11;;THT;25.1494;-9.47581;180;Bottom;Joystick Left12
+12;;;20.0778;-14.5558;90;Bottom;Part2
+13;;THT;20.0863;-4.39581;90;Bottom;J1
+14;;THT;14.9894;-9.47581;180;Bottom;Joystick Left9
+15;;THT;20.0863;-24.7158;90;Bottom;J2
+16;;THT;45.4694;-15.8258;180;Bottom;Joystick Left4
+17;;THT;17.5294;-9.47581;180;Bottom;Joystick Left11
+18;;THT;44.1994;-9.47581;180;Bottom;Joystick Left13
+19;2.2k;THT;14.9894;-1.85581;0;Bottom;R1
+20;;THT;50.5494;-1.85581;-90;Bottom;Joystick Right
+21;;THT;48.0094;-4.39581;-90;Bottom;Joystick Left2
+22;;THT;54.3594;-12.0158;-90;Bottom;Joystick Left3

@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=joystick_up_bluetooth
+*Date=07:46:02
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;20.7131;-11.5651;0;Bottom;J2
+2;;THT;23.4572;-11.5262;0;Bottom;J1
+3;220;THT;29.6872;-7.72612;180;Bottom;R2
+4;;THT;35.7592;-4.43061;-90;Bottom;J4
+5;;THT;19.4079;-22.2047;-90;Bottom;Left connector
+6;;THT;35.9421;-19.6634;-90;Bottom;J3
+7;220;THT;29.3085;-15.8745;-90;Bottom;R1
+8;;THT;19.3367;-1.74357;-90;Bottom;Right Connector

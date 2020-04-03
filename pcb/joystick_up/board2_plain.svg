@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 58.411533 24.015699"
+   height="24.015699mm"
+   width="58.411533mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(1.2841394,-274.72251)"
+     id="board">
+    <path
+       id="rect4540"
+       d="m 0.32176176,274.82412 c -0.83337375,0 -1.50430096,0.67092 -1.50430096,1.5043 v 20.80389 c 0,0.83338 0.67092721,1.50431 1.50430096,1.50431 H 37.000658 c 0.833374,0 1.504302,-0.67093 1.504302,-1.50431 v -5.11027 H 57.025793 V 281.4387 H 38.50496 v -5.11028 c 0,-0.83338 -0.670928,-1.5043 -1.504302,-1.5043 z"
+       style="display:inline;opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.71165299;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  </g>
+  <g
+     transform="translate(1.4245165,-7.61728)"
+     id="silkscreen">
+    <path
+       id="rect4540-7"
+       d="m 0.3217617,274.82412 c -0.8333741,0 -1.5043011,0.67092 -1.5043011,1.5043 v 20.80389 c 0,0.83338 0.670927,1.50431 1.5043011,1.50431 H 37.000658 c 0.833374,0 1.504303,-0.67093 1.504303,-1.50431 v -5.11027 H 57.025793 V 281.43871 H 38.50496 v -5.11028 c 0,-0.83338 -0.670928,-1.5043 -1.504302,-1.5043 z"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       transform="translate(-0.14037707,-267.10524)" />
+  </g>
+</svg>
