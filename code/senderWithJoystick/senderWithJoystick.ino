@@ -84,14 +84,14 @@
       j2PotXraw = analogRead(jXR);
       j2PotYraw = analogRead(jYR);
       
-      data.j1PotX = map(j1PotXraw, 0, 1023, 0, 255); // Convert the analog read value from 0 to 1023 into a BYTE value from 0 to 255
+      data.j1PotX = map(j1PotXraw, 0, 1023, 255, 0); // Convert the analog read value from 0 to 1023 into a BYTE value from 0 to 255
       data.j1PotY = map(j1PotYraw, 0, 1023, 0, 255);
       data.j2PotX = map(j2PotXraw, 0, 1023, 0, 255);
-      data.j2PotY = map(j2PotYraw, 0, 1023, 0, 255);
+      data.j2PotY = map(j2PotYraw, 0, 1023, 255, 0);
 
       // Read all digital inputs
-      data.j1Button = digitalRead(jBL);
-      data.j2Button = digitalRead(jBR);
+      data.j1Button = 1-digitalRead(jBL);
+      data.j2Button = 1-digitalRead(jBR);
 
       // Send the whole data from the structure to the receiver
       radio.write(&data, sizeof(Data_Package));
